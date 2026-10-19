@@ -13,4 +13,5 @@ I am learning Git and GitHub from the basics.
 - git add stages changes.
 - git commit records a snapshot.
 - git diff shows changes.
+- I am learning how to recover from Git mistakes.
 
